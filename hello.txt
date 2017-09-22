@@ -7,8 +7,11 @@ ddddddddddd
 aaaaaaa
 bbbbbb
 hello
+<<<<<<< HEAD
 在dev1中对hello进行修改
 在dev1中对hello进行修改2
 在dev1中对hello进行修改22
 在dev1中对hello进行修改233
 11111111111111111111111
+在dev2中对hello进行编辑
+
